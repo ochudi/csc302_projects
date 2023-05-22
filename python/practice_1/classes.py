@@ -21,3 +21,4 @@ print("Tommy is also a {}".format(Dog.attr1))
 # Accessing instance attributes
 # Accessing instance attribute of Rodger
 print("My name is {}".format(Rodger.name))
+
