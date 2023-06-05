@@ -1,3 +1,4 @@
+package lecture.lecture_1;
 class Rectangle {
     private int length;
     private int breadth;
